@@ -1,6 +1,6 @@
 # Hot-Path Detection over Citi-Bike Streams (OpenCEP Extension)
 
-This project extends [OpenCEP](https://github.com/Cristiana-Cocheci/OpenCEP) with an optimized **Complex Event Processing (CEP)** pipeline for detecting **hot paths** (frequent trip sequences) in the 2019 Citi-Bike dataset.
+This project extends [OpenCEP](https://github.com/ilya-kolchinsky/OpenCEP) with an optimized **Complex Event Processing (CEP)** pipeline for detecting **hot paths** (frequent trip sequences) in the 2019 Citi-Bike dataset.
 
 The system is designed for **low latency**, **high throughput**, and **scalability** under realistic hardware constraints.
 
